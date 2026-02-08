@@ -5,6 +5,8 @@ Day Automation - Automation Recon with Bash
 
 ## Deskripsi Proyek
 
+Ini adalah deskripsi proyek
+
 ## Setup Environment
 
 ## Script Execution
