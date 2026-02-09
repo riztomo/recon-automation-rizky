@@ -1,19 +1,19 @@
 
-[2026-02-09 02:28:32] ===== Recon Automation Started =====
-[2026-02-09 02:28:32] Input domains file: /home/rizky/recon-automation-rizky/recon-automation-rizky/input/domains.txt
-[2026-02-09 02:28:32] Output all subdomains: /home/rizky/recon-automation-rizky/recon-automation-rizky/output/all-subdomains.txt
-[2026-02-09 02:28:32] Output live hosts: /home/rizky/recon-automation-rizky/recon-automation-rizky/output/live.txt
-[2026-02-09 02:28:32] Starting subdomain enumeration with subfinder...
-[2026-02-09 02:28:32] Enumerating subdomains for: dibimbing.id
-[2026-02-09 02:28:43] Enumerating subdomains for: vulnweb.com
-[2026-02-09 02:29:21] Enumerating subdomains for: hackthissite.org
-[2026-02-09 02:30:02] Enumerating subdomains for: pentest-ground.com
-[2026-02-09 02:30:40] Enumerating subdomains for: testfire.net
-[2026-02-09 02:31:17] Subfinder enumeration completed.
-[2026-02-09 02:31:17] Deduplicating results using anew...
-[2026-02-09 02:31:17] Deduplication completed. Saved into: /home/rizky/recon-automation-rizky/recon-automation-rizky/output/all-subdomains.txt
-[2026-02-09 02:31:17] Filtering live hosts using httpx...
-[2026-02-09 02:31:59] Live host filtering completed. Saved into: /home/rizky/recon-automation-rizky/recon-automation-rizky/output/live.txt
-[2026-02-09 02:31:59] ===== Recon Automation Finished =====
-[2026-02-09 02:31:59] Total unique subdomains: 166
-[2026-02-09 02:31:59] Total live hosts: 68
+[2026-02-09 06:34:26] ===== Recon Automation Started =====
+[2026-02-09 06:34:26] Input domains file: /home/rizky/recon-automation-rizky/recon-automation-rizky/input/domains.txt
+[2026-02-09 06:34:26] Output all subdomains: /home/rizky/recon-automation-rizky/recon-automation-rizky/output/all-subdomains.txt
+[2026-02-09 06:34:26] Output live hosts: /home/rizky/recon-automation-rizky/recon-automation-rizky/output/live.txt
+[2026-02-09 06:34:26] Starting subdomain enumeration with subfinder...
+[2026-02-09 06:34:26] Enumerating subdomains for: dibimbing.id
+[2026-02-09 06:34:37] Enumerating subdomains for: vulnweb.com
+[2026-02-09 06:34:40] Enumerating subdomains for: hackthissite.org
+[2026-02-09 06:35:23] Enumerating subdomains for: pentest-ground.com
+[2026-02-09 06:35:46] Enumerating subdomains for: testfire.net
+[2026-02-09 06:36:08] Subfinder enumeration completed.
+[2026-02-09 06:36:08] Deduplicating results using anew...
+[2026-02-09 06:36:08] Deduplication completed. Saved into: /home/rizky/recon-automation-rizky/recon-automation-rizky/output/all-subdomains.txt
+[2026-02-09 06:36:08] Filtering live hosts using httpx...
+[2026-02-09 06:36:51] Live host filtering completed. Saved into: /home/rizky/recon-automation-rizky/recon-automation-rizky/output/live.txt
+[2026-02-09 06:36:51] ===== Recon Automation Finished =====
+[2026-02-09 06:36:51] Total unique subdomains: 162
+[2026-02-09 06:36:51] Total live hosts: 71

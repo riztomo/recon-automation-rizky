@@ -103,7 +103,7 @@ log_progress "Deduplication completed. Saved into: $OUTPUT_ALL"
 # Filter live using httpx
 log_progress "Filtering live hosts using httpx..."
 
-httpx -l "$OUTPUT_ALL" -silent 2>>"$LOG_ERRORS" \
+httpx -l "$OUTPUT_ALL" -silent -status-code -title -no-color -follow-redirects 2>>"$LOG_ERRORS" \
     | tee "$OUTPUT_LIVE" | tee -a > /dev/null
 
 log_progress "Live host filtering completed. Saved into: $OUTPUT_LIVE"

@@ -1,68 +1,71 @@
-https://alpha.do.dibimbing.id
-http://1-v3stage-cdn.hackthissite.org
-https://api.dibimbing.id
-http://1-v3dev-cdn.hackthissite.org
-https://form.dibimbing.id
-https://admin.do.dibimbing.id
-https://gateway.dibimbing.id
-https://affiliate.do.dibimbing.id
-http://0-v3dev-cdn.hackthissite.org
-https://api-bootcamp.do.dibimbing.id
-https://affiliate.dibimbing.id
-https://altoro.testfire.net
-https://ctf.hackthissite.org
-https://bimby.do.dibimbing.id
-https://ghost.do.dibimbing.id
-https://demo.testfire.net
-https://ftp.testfire.net
-http://4-v3dev-cdn.hackthissite.org
-https://h5ai.hackthissite.org
-http://admin.dibimbing.id
-http://hub.irc.hackthissite.org
-http://evil.testfire.net
-https://irc-lille.hackthissite.org
-http://3-v3stage-cdn.hackthissite.org
-https://forums.hackthissite.org
-http://food-journal.do.dibimbing.id
-http://alpha.dibimbing.id
-http://3-v3dev-cdn.hackthissite.org
-https://learn.dibimbing.id
-https://irc.hackthissite.org
-http://help.dibimbing.id
-http://irc-hub.hackthissite.org
-http://cloudpanel.pentest-ground.com
-https://partner-old.dibimbing.id
-https://lms-b2b.do.dibimbing.id
-https://lmsb2b.do.dibimbing.id
-https://jobs.dibimbing.id
-https://lms.dibimbing.id
-http://irc-wolf.hackthissite.org
-https://lille.irc.hackthissite.org
-http://landing-page-staging.dibimbing.id
-https://mirror.hackthissite.org
-https://prometheus.do.dibimbing.id
-https://sport-reservation-api-bootcamp.do.dibimbing.id
-https://qdb.hackthissite.org
-http://learning-center-staging.do.dibimbing.id
-http://legal.hackthissite.org
-http://n8n.dibimbing.id
-https://status.hackthissite.org
-https://ultracamel.dibimbing.id
-https://sport-reservation-2-api-bootcamp.do.dibimbing.id
-http://v3stage.hackthissite.org
-http://v3dev-cdn.hackthissite.org
-http://mentor.dibimbing.id
-http://v3dev.hackthissite.org
-http://strapi.dibimbing.id
-https://wolf.irc.hackthissite.org
-http://partner-v1.dibimbing.id
-http://v3stage-cdn.hackthissite.org
-https://www.hackthissite.org
-https://www.testfire.net
-http://testasp.vulnweb.com
-http://rest.vulnweb.com
-http://testhtml5.vulnweb.com
-http://testaspnet.vulnweb.com
-http://stats.hackthissite.org
-http://www.dibimbing.id
-http://www.vulnweb.com
+https://alpha.do.dibimbing.id [504]
+https://api-bootcamp.do.dibimbing.id [404] [Error]
+https://code.dibimbing.id [200] [Dibimbing Execute]
+https://code.do.dibimbing.id [200] [Dibimbing Execute]
+https://forums.hackthissite.org [403] [403 Forbidden]
+http://3-v3stage-cdn.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+https://demo.testfire.net [200] [Altoro Mutual]
+https://ftp.testfire.net [200] [Altoro Mutual]
+http://1-v3dev-cdn.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+https://affiliate.dibimbing.id [200] [Hasilkan Jutaan Rupiah dengan Bergabung Dibimbing Affiliate Program]
+https://api.dibimbing.id [200]
+https://altoro.testfire.net [200] [Altoro Mutual]
+https://affiliate.do.dibimbing.id [200] [Hasilkan Jutaan Rupiah dengan Bergabung Dibimbing Affiliate Program]
+http://4-v3dev-cdn.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+http://4-v3stage-cdn.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+http://bootcamp.do.dibimbing.id [308,200] [LMS Dibimbing]
+https://help.dibimbing.id [200] [Introduction | FAQ]
+http://0-v3stage-cdn.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+http://ghost.do.dibimbing.id [200]
+https://irc-www.hackthissite.org [200] [HackThisSite IRC]
+http://1-v3stage-cdn.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+http://ctf.hackthissite.org [301,200] [35C3 Junior CTF Write-ups Posted | HackThisSite CTF]
+http://hiring-partner.do.dibimbing.id [308,200] [Partners]
+http://grafana.do.dibimbing.id [301,302,200] [Grafana]
+http://admin.do.dibimbing.id [308,404]
+http://evil.testfire.net [200] [Altoro Mutual]
+https://kafkui.do.dibimbing.id [502] [502 Bad Gateway]
+https://lms-b2b.do.dibimbing.id [200]
+http://h5ai.hackthissite.org [301,200] [HackThisSite / h5ai]
+https://legal.hackthissite.org [200] [HackThisSite Legal]
+http://jobs.do.dibimbing.id [308,200] [Temukan Pekerjaan Impianmu Bersama Dibimbing]
+https://mirror.hackthissite.org [200] [index - powered by h5ai v0.29.2 (https://larsjung.de/h5ai/)]
+http://jobs.dibimbing.id [308,200] [Temukan Pekerjaan Impianmu Bersama Dibimbing]
+http://irc.hackthissite.org [301,200] [HackThisSite IRC]
+http://admin.dibimbing.id [308,404]
+https://irc-wolf.hackthissite.org [301,200] [HackThisSite IRC]
+https://partner-old.dibimbing.id [301,200] [Partner Dibimbing]
+https://partner-v1.dibimbing.id [200] [Partner Dibimbing]
+http://irc-lille.hackthissite.org [301,200] [HackThisSite IRC]
+http://landing-page-staging.dibimbing.id [308,200] [Dibimbing - 96% Students Bootcamp Dibimbing Berhasil Melangkah Pasti Ke Karier Baru]
+https://localhost.testfire.net [200] [Altoro Mutual]
+http://lmsb2b.dibimbing.id [301,200]
+http://hub.irc.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+http://new-metabase.dibimbing.id [301,401] [401 Authorization Required]
+https://sport-reservation-2-api-bootcamp.do.dibimbing.id [200] [Laravel]
+http://learn.dibimbing.id [308,200] [Dibimbing Learning Center]
+https://strapi.dibimbing.id [200] [Welcome to your Strapi app]
+http://lms.dibimbing.id [308,200]
+https://partner.dibimbing.id [200] [Partners]
+https://travel-journal-api-bootcamp.do.dibimbing.id [404] [Error]
+http://sentry.do.dibimbing.id [200] [Whatsapp Socket]
+http://v3stage.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+http://mentor.dibimbing.id [308,200] [Mentor Dibimbing]
+http://sport-reservation-api-bootcamp.do.dibimbing.id [301,200] [Laravel]
+http://landing-page-staging.do.dibimbing.id [308,404]
+https://v2.dibimbing.id [404]
+https://www.irc.hackthissite.org [200] [HackThisSite IRC]
+http://testasp.vulnweb.com [200] [acuforum forums]
+http://v3stage-cdn.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+http://psrp.hackthissite.org [404] [404 - redirect.pizza]
+https://www.testfire.net [200] [Altoro Mutual]
+http://rest.vulnweb.com [200] [Invicti Vulnerable REST API]
+http://v3dev.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
+http://qdb.hackthissite.org [200] [HackThisSite IRC]
+https://www.hackthissite.org [200] [Hack This Site]
+http://status.hackthissite.org [301,302,200] [HackSite Network - Service Status - Powered by HetrixTools]
+http://testhtml5.vulnweb.com [200] [SecurityTweets - HTML5 test website for Acunetix Web Vulnerability Scanner]
+http://testaspnet.vulnweb.com [200] [acublog news]
+http://testphp.vulnweb.com [200] [Home of Acunetix Art]
+https://wolf.irc.hackthissite.org [301,200] [HackThisSite IRC]
+http://v3dev-cdn.hackthissite.org [400] [ERROR: The requested URL could not be retrieved]
